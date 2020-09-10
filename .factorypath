@@ -1,4 +1,4 @@
 <factorypath>
     <factorypathentry kind="PLUGIN" id="org.eclipse.jst.ws.annotations.core" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="EXTJAR" id="E:\work\eclipse-workspace\A1.jar" enabled="true" runInBatchMode="true"/>
+    <factorypathentry kind="EXTJAR" id="E:\work\eclipse-workspace\NotStatic9.jar" enabled="true" runInBatchMode="true"/>
 </factorypath>

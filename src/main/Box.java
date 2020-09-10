@@ -1,19 +1,16 @@
 package main;
 
-import homeprovider.ca.Encapsulated;
+import homeprovider.ca.NoStaticFields;
+import homeprovider.ca.NotStatic;
 
-@Encapsulated
+@NotStatic
 public class Box {
-	private int value;
-	private int value2;
+	public int x;
+	public static int y;
 	
-	public int getValue() {
-		return value;
-	}
-
-	public void setValue(int value) {
-		this.value = value;
-	} 
+	public static void ee() {
+		
+	};
 	
 	
 }

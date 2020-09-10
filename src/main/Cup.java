@@ -1,11 +1,15 @@
 package main;
 
-import homeprovider.ca.Encapsulated;
+import homeprovider.ca.NoStaticFields;
+import homeprovider.ca.NotStatic;
 
-
-@Encapsulated
+@NoStaticFields
 public class Cup {
-	private  String c;
+	public static int y;
+	
+	public static void ee() {
+		
+	};
 
 
 }

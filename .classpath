@@ -8,6 +8,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="/annotation-provider"/>
-	<classpathentry kind="lib" path="E:/work/eclipse-workspace/A1.jar"/>
+	<classpathentry kind="lib" path="E:/work/eclipse-workspace/NotStatic9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
